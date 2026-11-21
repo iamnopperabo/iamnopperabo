@@ -82,5 +82,5 @@
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" height="46" alt="ChatGPT" title="ChatGPT" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="46" alt="DeepSeek" title="DeepSeek" />
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="6" alt="DeepSeek" title="DeepSeek" />
 </p>
