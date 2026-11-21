@@ -24,8 +24,7 @@
   <a href="https://github.com/iamnopperabo" title="GitHub profile views"><img src="https://komarev.com/ghpvc/?username=iamnopperabo&style=for-the-badge&color=0e8a16&label=PROFILE+VIEWS" alt="GitHub profile views" title="GitHub profile views" /></a>
   &nbsp;
   <a href="https://github.com/iamnopperabo?tab=followers" title="GitHub followers"><img src="https://img.shields.io/github/followers/iamnopperabo?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers" title="GitHub followers" /></a>
-  &nbsp;
-  <a href="https://github.com/iamnopperabo?tab=repositories" title="Total GitHub stars"><img src="https://img.shields.io/github/stars/iamnopperabo?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&cacheSeconds=300" alt="Total GitHub stars" title="Total GitHub stars" /></a>
+
 </p>
 
 <br />
