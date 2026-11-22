@@ -13,9 +13,9 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg" />
-  <img src="profile-card-dark.svg" width="100%" alt="Dmitriy's neofetch-style ASCII profile card" title="Dmitriy // Nopperabo" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamnopperabo/iamnopperabo/7c6a239f9ef00ddd63c77e31b10d909fe5254b0d/profile-card-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamnopperabo/iamnopperabo/b4ce205bc3c46796fb3bac6b120ea55d0b18df1f/profile-card-light.svg" />
+  <img src="https://raw.githubusercontent.com/iamnopperabo/iamnopperabo/7c6a239f9ef00ddd63c77e31b10d909fe5254b0d/profile-card-dark.svg" width="100%" alt="Dmitriy's neofetch-style ASCII profile card" title="Dmitriy // Nopperabo" />
 </picture>
 
 <br />
